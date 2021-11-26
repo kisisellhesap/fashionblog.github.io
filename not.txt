@@ -1,0 +1,10 @@
+exteki animasyonları mobilede iptal et sadece masaüstünde çalışssın 1 kere üstüne gelince
+
+griddeki h2 leri düzenle boyutlandır
+
+menüyü biraz aşşağıya al. masaüstünde çok yukarıda gözüküyor
+
+üçlü resimi sreene göre boyutlandır
+
+
+
